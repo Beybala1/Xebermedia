@@ -1,6 +1,3 @@
-<?php
-$con = mysqli_connect('localhost','filmbaxt_beybala','beybala1','filmbaxt_xebermedia') ;
-?>
 <html lang="az-Az">
 
 <head>
