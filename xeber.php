@@ -1,5 +1,4 @@
 <?php
-$con = mysqli_connect('localhost','filmbaxt_beybala','beybala1','filmbaxt_xebermedia') ;
 
 $id=(int)$_GET['id'];
 
